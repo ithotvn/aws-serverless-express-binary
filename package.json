@@ -1,18 +1,19 @@
 {
-  "name": "aws-serverless-express",
-  "version": "3.3.8",
-  "description": "This library enables you to utilize AWS Lambda and Amazon API Gateway to respond to web and API requests using your existing Node.js application framework.",
+  "name": "aws-serverless-express-binary",
+  "version": "1.0.1",
+  "description": "Supported image upload forward to Node Server. This library enables you to utilize AWS Lambda and Amazon API Gateway to respond to web and API requests using your existing Node.js application framework.",
   "keywords": [
     "aws",
     "serverless",
     "api",
     "gateway",
+    "image upload",
     "lambda",
     "express"
   ],
-  "homepage": "https://github.com/awslabs/aws-serverless-express",
+  "homepage": "https://github.com/ithotvn/aws-serverless-express-binary",
   "bugs": {
-    "url": "https://github.com/awslabs/aws-serverless-express/issues"
+    "url": "https://github.com/ithotvn/aws-serverless-express-binary/issues"
   },
   "license": "Apache-2.0",
   "files": [
@@ -23,7 +24,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/awslabs/aws-serverless-express.git"
+    "url": "git@github.com:ithotvn/aws-serverless-express-binary.git"
   },
   "engines": {
     "node": ">=6"

@@ -22,7 +22,7 @@ function getPathWithQueryStringParams (event) {
   return url.format({ pathname: event.path, query: event.queryStringParameters })
 }
 function getEventBody (event) {
-  return Buffer.from(event.body, event.isBase64Encoded ? 'base64' : 'utf8')
+  return Buffer.from(event.body, event.isBase64Encoded ? 'base64' : 'binary')
 }
 
 function clone (json) {
