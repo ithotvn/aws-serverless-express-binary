@@ -113,7 +113,7 @@
     "husky": "^0.15.0-rc.4",
     "jest": "^24.5.0",
     "lint-staged": "^7.2.0",
-    "semantic-release": "^17.0.4"
+    "semantic-release": "^19.0.3"
   },
   "scripts": {
     "test": "jest",
